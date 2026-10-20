@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="t d">
+  <title id="t">Логотип: книга и вопрос</title>
+  <desc id="d">Графическая ссылка на главную страницу</desc>
+  <rect width="96" height="96" rx="18" fill="#7b2638"/>
+  <path d="M18 25c12-4 23-2 30 5v45c-7-7-18-9-30-5V25Zm60 0c-12-4-23-2-30 5v45c7-7 18-9 30-5V25Z" fill="#fffdf8" stroke="#e9e2d8" stroke-width="3"/>
+  <text x="48" y="58" text-anchor="middle" font-family="Georgia" font-size="31" font-weight="700" fill="#7b2638">?</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" preserveAspectRatio="none" role="img" aria-labelledby="title desc">
+  <title id="title">Чёрно-белое дерево</title>
+  <desc id="desc">Силуэт старого ветвистого дерева на светлом фоне для оформления таблицы</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#d8d8d6"/>
+    </linearGradient>
+    <radialGradient id="mist" cx="50%" cy="38%" r="58%">
+      <stop offset="0" stop-color="#fff" stop-opacity=".82"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="650" fill="url(#sky)"/>
+  <circle cx="500" cy="230" r="265" fill="url(#mist)"/>
+
+  <g fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M505 628C482 548 495 466 487 392C480 323 449 275 420 225" stroke-width="58"/>
+    <path d="M487 405C420 346 354 303 274 274" stroke-width="34"/>
+    <path d="M475 344C537 292 587 241 617 171" stroke-width="31"/>
+    <path d="M459 294C416 240 387 177 371 109" stroke-width="23"/>
+    <path d="M514 332C579 325 645 301 704 260" stroke-width="25"/>
+    <path d="M382 322C333 315 279 291 230 252" stroke-width="20"/>
+    <path d="M311 288C270 242 247 195 235 145" stroke-width="14"/>
+    <path d="M327 298C284 315 233 325 176 320" stroke-width="12"/>
+    <path d="M411 241C431 194 444 144 441 91" stroke-width="13"/>
+    <path d="M590 228C646 219 698 195 743 154" stroke-width="17"/>
+    <path d="M616 174C608 130 615 89 643 49" stroke-width="12"/>
+    <path d="M677 277C736 282 789 271 838 241" stroke-width="13"/>
+    <path d="M703 260C731 217 754 171 761 120" stroke-width="11"/>
+    <path d="M489 474C436 455 385 448 329 454" stroke-width="19"/>
+  </g>
+
+  <g fill="#2a2a2a">
+    <circle cx="218" cy="143" r="34"/><circle cx="255" cy="174" r="45"/><circle cx="293" cy="219" r="41"/>
+    <circle cx="169" cy="307" r="36"/><circle cx="223" cy="316" r="41"/><circle cx="314" cy="278" r="38"/>
+    <circle cx="359" cy="111" r="39"/><circle cx="405" cy="91" r="45"/><circle cx="447" cy="119" r="35"/>
+    <circle cx="621" cy="76" r="40"/><circle cx="668" cy="97" r="45"/><circle cx="718" cy="146" r="43"/>
+    <circle cx="760" cy="113" r="34"/><circle cx="783" cy="194" r="46"/><circle cx="837" cy="236" r="39"/>
+    <circle cx="696" cy="270" r="45"/><circle cx="647" cy="284" r="36"/>
+  </g>
+
+  <path d="M0 601C165 575 288 596 421 604C558 613 715 568 1000 596V650H0Z" fill="#323232"/>
+  <path d="M508 586C436 596 384 620 334 650M508 586C578 603 623 624 667 650M477 568C421 566 374 575 325 596" fill="none" stroke="#1f1f1f" stroke-width="23" stroke-linecap="round"/>
+</svg>

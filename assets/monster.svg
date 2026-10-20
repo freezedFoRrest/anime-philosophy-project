@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="120" viewBox="0 0 180 120" role="img" aria-label="Лабиринт нравственного выбора">
+  <rect width="180" height="120" rx="8" fill="#e7ded2"/>
+  <path d="M18 20h110v20H52v20h83v42H79V79H35v23H18V20Zm126 0h18v82h-18z" fill="#7b2638"/>
+  <circle cx="43" cy="30" r="8" fill="#252323"/>
+  <circle cx="119" cy="91" r="8" fill="#252323"/>
+</svg>
